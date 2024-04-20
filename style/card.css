@@ -1,0 +1,29 @@
+@import url('./reset.css');
+
+.wrapper{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.product{
+    background-color: #4a4a4a;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 600px;
+    width: 100%;
+    border: 1px #4a4a4a;
+    row-gap: 20px;
+    padding: 20px;
+    border-radius: 30px;;
+}
+
+.product__img img{
+    max-width: 400px;
+    width: 100%;
+}
+
+
+

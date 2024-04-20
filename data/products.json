@@ -1,0 +1,203 @@
+[
+    {
+        "id": 1,
+        "title": "Days Gone",
+        "price": "2000",
+        "discount": "5",
+        "img": "../../images/Days_Gone_game_cover.webp",
+        "descr": "Days Gone представляет собой игру в жанре action-adventure, действие которой происходит в постапокалиптическом открытом мире. Игрок управляет байкером Диконом Сент-Джоном, ставшим бродягой и охотником за головами, предпочитающим жизнь в дороге диким лагерям."
+    },
+    {
+        "id": 2,
+        "title": "God of War",
+        "price": "4000",
+        "discount": "20",
+        "img": "../../images/Gow.webp",
+        "descr": "God of War - это приключенческий слэшер с видом от третьего лица, события которого переносятся из Греции в Скандинавию. Игра является одновременно и сиквелом, и перезапуском серии. Сюжет строится вокруг спартанца Кратоса, который сумел-таки отомстить богам Олимпа. Теперь он вместе со своим сыном живет на севере, в мире Скандинавских богов и монстров. Он должен бороться, чтобы выжить, а также должен научить своего сына выживать и сражаться. "
+    },
+    {
+        "id": 3,
+        "title": "Deep Rock Galactic",
+        "price": "350",
+        "discount": "5",
+        "img": "../../images/DRG.webp",
+        "descr": "Deep Rock Galactic — компьютерная игра в жанре кооперативного шутера от первого лица, разработанная датской студией Ghost Ship Games и изданная компанией Coffee Stain Publishing для Microsoft Windows и Xbox One в 2020 году, для PlayStation 4 и PlayStation 5 в январе 2022 года."
+    },
+    {
+        "id": 4,
+        "title": "Helldivers 2",
+        "price": "3175",
+        "discount": "50",
+        "img": "../../images/Hd2.webp",
+        "descr": "Helldivers 2 — это сетевой многопользовательский командный шутер, в котором вам с друзьями предстоит собрать команду из четырех человек, так что в игре нет автономного или одиночного режима игры."
+    },
+    {
+        "id": 5,
+        "title": "Hollow Knight",
+        "price": "275",
+        "discount": "22",
+        "img": "../../images/HK.webp",
+        "descr": "Hollow Knight – это эпическое приключение в огромном разрушенном королевстве, полном насекомых и героев. Исследуйте извилистые пещеры, сражайтесь с порчеными тварями и заводите дружбу со странными жуками – все это в классической двухмерной ручной рисовке."
+    },
+    {
+        "id": 6,
+        "title": "Subnautica",
+        "price": "999",
+        "discount": "10",
+        "img": "../../images/SB.webp",
+        "descr": "Subnautica - это игра-песочница с открытым миром, где действие происходит в океане на неизвестной планете. Главному герою придется выживать в этом странном мире, крафтить предметы, добывать еду. Кроме спасательной капсулы у вас, по началу, ничего не будет."
+    },
+    {
+        "id": 7,
+        "title": "Dead Cells",
+        "price": "699",
+        "discount": "50",
+        "img": "../../images/DC.webp",
+        "descr": "Dead Cells — Двухмерный экшен совмещает жанр «rogue» и механику Castlevania. Действие происходит в огромном замке, уровни которого генерируются случайным образом. На локациях запрятано обилие секретов, поэтому нужно пристально изучать каждый сантиметр карты."
+    },
+    {
+        "id": 8,
+        "title": "Vampire Survivors",
+        "price": "250",
+        "discount": "5",
+        "img": "../../images/VS.webp",
+        "descr": "Vampire Survivors — это игра в жанре экшн-рогалик, разработанная и изданная инди-разработчиком poncle, где игрок становится буллет-хеллом и сражается с многочисленными волнами врагов. Изначально игра была написана с использованием HTML5 и была бесплатно выпущена на itch.io как браузерная игра 31 марта 2021 года."
+    },
+    {
+        "id": 9,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "../../images/acer-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 10,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "../../images/iphone-14-pro-max-gold.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 11,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "../../images/lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 12,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "../../images/macbook-10-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 13,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "../../images/msi-15-white.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 14,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "../../images/poco-f4-gt-yellow.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 15,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "../../images/samsung-s22-black.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 16,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "../../images/xiaomi-12x-purple.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 17,
+        "title": "Acer 3 Серый",
+        "price": "30200",
+        "discount": "5",
+        "img": "../../images/acer-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 18,
+        "title": "Iphone 14 PRO max gold",
+        "price": "100200",
+        "discount": "20",
+        "img": "../../images/iphone-14-pro-max-gold.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 19,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "../../images/lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 20,
+        "title": "Macbook 10 Серый",
+        "price": "90000",
+        "discount": "50",
+        "img": "../../images/macbook-10-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 21,
+        "title": "MSI 15 белый",
+        "price": "40000",
+        "discount": "22",
+        "img": "../../images/msi-15-white.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 22,
+        "title": "Poco f4 gt желтый",
+        "price": "36000",
+        "discount": "10",
+        "img": "../../images/poco-f4-gt-yellow.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 23,
+        "title": "Samsung s22 черный",
+        "price": "60000",
+        "discount": "50",
+        "img": "../../images/samsung-s22-black.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 24,
+        "title": "Xiaomi 12x фиолетовый",
+        "price": "30200",
+        "discount": "5",
+        "img": "../../images/xiaomi-12x-purple.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    },
+    {
+        "id": 25,
+        "title": "Lenovo 3 Серый",
+        "price": "35000",
+        "discount": "5",
+        "img": "../../images/lenovo-3-gray.webp",
+        "descr": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque molestiae delectus dignissimos excepturi beatae corporis quia mollitia voluptas, saepe, consequuntur tempore ducimus! Quasi harum repellendus quos enim rem, dolore asperiores excepturi rerum perspiciatis nisi pariatur in doloribus? Architecto facere ex quas nemo, quod ullam dolor ipsam odio tenetur hic nesciunt?"
+    }
+]
+
