@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "title": "Days Gone",
+        "title": "Аккаунт с Days Gone",
         "price": "2000",
         "discount": "5",
         "img": "../../images/Days_Gone_game_cover.webp",
@@ -9,7 +9,7 @@
     },
     {
         "id": 2,
-        "title": "God of War",
+        "title": "Аккаунт с God of War",
         "price": "4000",
         "discount": "20",
         "img": "../../images/GoW.webp",
@@ -17,7 +17,7 @@
     },
     {
         "id": 3,
-        "title": "Deep Rock Galactic",
+        "title": "Аккаунт с Deep Rock Galactic",
         "price": "350",
         "discount": "5",
         "img": "../../images/DRG.webp",
@@ -25,7 +25,7 @@
     },
     {
         "id": 4,
-        "title": "Helldivers 2",
+        "title": "Аккаунт с Helldivers 2",
         "price": "3175",
         "discount": "50",
         "img": "../../images/Hd2.webp",
@@ -33,7 +33,7 @@
     },
     {
         "id": 5,
-        "title": "Hollow Knight",
+        "title": "Аккаунт с Hollow Knight",
         "price": "275",
         "discount": "22",
         "img": "../../images/HK.webp",
@@ -41,7 +41,7 @@
     },
     {
         "id": 6,
-        "title": "Subnautica",
+        "title": "Аккаунт с Subnautica",
         "price": "999",
         "discount": "10",
         "img": "../../images/SB.webp",
@@ -49,7 +49,7 @@
     },
     {
         "id": 7,
-        "title": "Dead Cells",
+        "title": "Аккаунт с Dead Cells",
         "price": "699",
         "discount": "50",
         "img": "../../images/DC.webp",
@@ -57,7 +57,7 @@
     },
     {
         "id": 8,
-        "title": "Vampire Survivors",
+        "title": "Аккаунт с Vampire Survivors",
         "price": "250",
         "discount": "5",
         "img": "../../images/VS.webp",
