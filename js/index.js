@@ -138,7 +138,7 @@ function createCards(data) {
                             <div class="card__price card__price--discount">${priceDiscount}</div>
                             <div class="card__price card__price--common">${price}</div>
                         </div>
-                        <a href="/card.html?id=${id}" class="card__title">${title}</a>
+                        <a href="/pages/card.html?id=${id}" class="card__title">${title}</a>
                         <button class="card__add">В корзину</button>
                     </div>
                 </div>
