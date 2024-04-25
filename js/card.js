@@ -73,7 +73,7 @@ function renderInfoProduct(product) {
         <div class="product">
             <h2 class="product__title">${title}</h2>
             <div class="product__img">
-                <img src="./images/${img}" alt="${title}">
+                <img src=".images/${img}" alt="${title}">
             </div>
             <p class="product__descr">${descr}</p>
             <div class="product__inner-price">
